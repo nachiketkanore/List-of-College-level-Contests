@@ -49,4 +49,5 @@ Contains list of all inter-college "Competitive Programming" contests for partic
 | 44 | [Clash Credenz 2015](https://www.codechef.com/CCWC2015?itm_campaign=contest_listing) | PICT |  |
 | 45 | [Clash Credenz 2014](https://www.codechef.com/CLASH14?itm_campaign=contest_listing) | PICT |  |
 | 46 | [Clash Credenz 2013](https://www.codechef.com/CLASH13?itm_campaign=contest_listing) | PICT |  |
+| 47 | [Just Coding 2019](https://www.codechef.com/JCWR2019?itm_campaign=contest_listing) | PICT |  |
 
