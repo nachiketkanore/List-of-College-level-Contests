@@ -1,5 +1,5 @@
 # List-of-College-level-Contests
-Contains list of all inter-college "Competitive Programming" contests that I have participated/ solved.
+Contains list of all inter-college "Competitive Programming" contests for participating/upsolving.
 
 | Index | Contest Name | Prepared by | Comments/ Good problems |
 | --- | --- | --- | --- |
