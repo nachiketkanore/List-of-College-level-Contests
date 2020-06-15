@@ -42,4 +42,11 @@ Contains list of all inter-college "Competitive Programming" contests for partic
 | 37 | [Ait-crack-1](https://www.hackerrank.com/ait-crack-1) | AIT |  |
 | 38 | [Ait-crack](https://www.hackerrank.com/ait-crack) | AIT |  |
 | 39 | [Codeft19-bugoff](https://www.hackerrank.com/codeft19-bugoff) | AIT |  |
+| 40 | [Clash Credenz 2019](https://www.codechef.com/CCWI2019?itm_campaign=contest_listing) | PICT |  |
+| 41 | [Clash Credenz 2018](https://www.codechef.com/CCWC2018?itm_campaign=contest_listing) | PICT |  |
+| 42 | [Clash Credenz 2017](https://www.codechef.com/CLCW2017?itm_campaign=contest_listing) | PICT |  |
+| 43 | [Clash Credenz 2016](https://www.codechef.com/CCWR2016?itm_campaign=contest_listing) | PICT |  |
+| 44 | [Clash Credenz 2015](https://www.codechef.com/CCWC2015?itm_campaign=contest_listing) | PICT |  |
+| 45 | [Clash Credenz 2014](https://www.codechef.com/CLASH14?itm_campaign=contest_listing) | PICT |  |
+| 46 | [Clash Credenz 2013](https://www.codechef.com/CLASH13?itm_campaign=contest_listing) | PICT |  |
 
