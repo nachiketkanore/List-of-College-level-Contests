@@ -3,7 +3,7 @@ Contains list of all inter-college "Competitive Programming" contests for partic
 
 | Index | Contest Name | Prepared by | Comments/ Good problems |
 | --- | --- | --- | --- |
-| 1 | [Educational long (beginners)](https://www.hackerrank.com/pasc-educational-cp-round-1) | PICT |  |
+| 1 | [Educational Long (Beginners)](https://www.hackerrank.com/pasc-educational-cp-round-1) | PICT |  |
 | 2 | [PCS-5](https://www.hackerrank.com/pcs-5) | PICT |  |
 | 3 | [PCS-7](https://www.hackerrank.com/pcs7) | PICT |  |
 | 4 | [Codefusion 20-5](https://www.hackerrank.com/codefusion-20-5) | Walchand |  |
@@ -15,7 +15,7 @@ Contains list of all inter-college "Competitive Programming" contests for partic
 | 10 | [CPP final](https://www.hackerrank.com/thefinalezzz) | VIIT |  |
 | 11 | [Bugoff-C++](https://www.hackerrank.com/bugoff2cpp) | VIIT |  |
 | 12 | [PCS-3](https://www.hackerrank.com/thirdpcscontest) | PICT |  |
-| 13 | [String(topicwise)](https://www.hackerrank.com/string-long-contest/) | - |  |
+| 13 | [String (Topicwise)](https://www.hackerrank.com/string-long-contest/) | - |  |
 | 14 | [Coding-Club-1](https://www.hackerrank.com/coding-club-all-india-contest) | Coding Club India |  |
 | 15 | [Code-red-s-2020](https://www.hackerrank.com/contests/code-red-s-2020/challenge) | AIT |  |
 | 16 | [Codeft19-codered](https://www.hackerrank.com/codeft19-codered) | AIT |  |
@@ -29,7 +29,7 @@ Contains list of all inter-college "Competitive Programming" contests for partic
 | 24 | [Crack-qualifier](https://www.hackerrank.com/crack-qualifier) | AIT |  |
 | 25 | [Thefirst](https://www.hackerrank.com/thefirst) | AIT |  |
 | 26 | [Ab-yeh-kar-ke-dikhao](https://www.hackerrank.com/ab-yeh-kar-ke-dikhao) | AIT |  |
-| 27 | [Tebefinalround](https://www.hackerrank.com/contests/tebefinalround) | AIT |  |
+| 27 | [TE-BE Finalround](https://www.hackerrank.com/contests/tebefinalround) | AIT |  |
 | 28 | [Fesefinal](https://www.hackerrank.com/contests/fesefinal) | AIT |  |
 | 29 | [Chakravyuh-1](https://www.hackerrank.com/contests/chakravyuh-1) | AIT |  |
 | 30 | [Domingo-contest-1-1](https://www.hackerrank.com/contests/-domingo-contest-1-1) | AIT |  |
