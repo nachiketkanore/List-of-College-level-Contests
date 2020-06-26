@@ -52,4 +52,4 @@ Contains list of all inter-college "Competitive Programming" contests for partic
 | 47 | [Just Coding 2019](https://www.codechef.com/JCWR2019?itm_campaign=contest_listing) | PICT |  |
 | 48 | [AlgoStrike(Junior)](https://www.hackerrank.com/contests/algostrike-senior) | PICT |  |
 | 49 | [AlgoStrike(Senior)](https://www.hackerrank.com/contests/algostrike-junior) | PICT |  |
-
+| 50 | [PASC-(for beginnners)](https://www.hackerrank.com/contests/pasc-se-cp-round-1) | PICT |  |
