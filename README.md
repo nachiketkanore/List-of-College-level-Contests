@@ -53,3 +53,4 @@ Contains list of all inter-college "Competitive Programming" contests for partic
 | 48 | [AlgoStrike(Junior)](https://www.hackerrank.com/contests/algostrike-senior) | PICT |  |
 | 49 | [AlgoStrike(Senior)](https://www.hackerrank.com/contests/algostrike-junior) | PICT |  |
 | 50 | [PASC-(for beginnners)](https://www.hackerrank.com/contests/pasc-se-cp-round-1) | PICT |  |
+| 51 | [PASC-DP-CONTEST](https://www.hackerrank.com/contests/pasc-dp) | PICT |  |
