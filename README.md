@@ -1,6 +1,10 @@
 # List-of-College-level-Contests
 Contains list of all inter-college "Competitive Programming" contests for participating/upsolving.
 
+Add later :
+https://www.hackerrank.com/contests/npca-2019/challenges
+https://www.hackerrank.com/contests/bbc004/challenges
+
 | Index | Contest Name | Prepared by | Comments/ Good problems |
 | --- | --- | --- | --- |
 | 1 | [Educational Long (Beginners)](https://www.hackerrank.com/pasc-educational-cp-round-1) | PICT |  |
