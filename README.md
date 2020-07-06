@@ -2,8 +2,7 @@
 Contains list of all inter-college "Competitive Programming" contests for participating/upsolving.
 
 Add later :
-https://www.hackerrank.com/contests/npca-2019/challenges
-https://www.hackerrank.com/contests/bbc004/challenges
+https://www.hackerrank.com/contests/algoholic-contest-1/challenges
 
 | Index | Contest Name | Prepared by | Comments/ Good problems |
 | --- | --- | --- | --- |
