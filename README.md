@@ -55,8 +55,9 @@ Contains list of all inter-college "Competitive Programming" contests for partic
 | 49 | [AlgoStrike(Senior)](https://www.hackerrank.com/contests/algostrike-junior) | PICT |  |
 | 50 | [PASC-(for beginnners)](https://www.hackerrank.com/contests/pasc-se-cp-round-1) | PICT |  |
 | 51 | [PASC-DP-CONTEST](https://www.hackerrank.com/contests/pasc-dp) | PICT |  |
-| 51 | [Algoholics](https://www.hackerrank.com/contests/algoholic-contest-1/challenges) | -- |  |
-| 51 | [Game Theory LONG](https://www.hackerrank.com/contests/5-days-of-game-theory) | Codeforces |  |
-| 51 | [Codefusion](https://www.hackerrank.com/codefusion-20-7) | Walchand |  |
-| 51 | [Code Anime](https://www.hackerrank.com/code-anime) | -- |  |
+| 52 | [Algoholics](https://www.hackerrank.com/contests/algoholic-contest-1/challenges) | -- |  |
+| 53 | [Game Theory LONG](https://www.hackerrank.com/contests/5-days-of-game-theory) | Codeforces |  |
+| 54 | [Codefusion](https://www.hackerrank.com/codefusion-20-7) | Walchand |  |
+| 55 | [Code Anime](https://www.hackerrank.com/code-anime) | -- |  |
+| 56 | [Randomization Algorithms (pw:abcd)](https://vjudge.net/contest/323610) | VJudge |  |
 
