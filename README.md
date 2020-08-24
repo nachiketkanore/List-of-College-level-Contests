@@ -1,10 +1,6 @@
 # List-of-College-level-Contests
 Contains list of all inter-college "Competitive Programming" contests for participating/upsolving.
 
-Add later :
-https://www.hackerrank.com/contests/algoholic-contest-1/challenges
-https://www.hackerrank.com/contests/5-days-of-game-theory
-https://www.hackerrank.com/codefusion-20-7
 
 | Index | Contest Name | Prepared by | Comments/ Good problems |
 | --- | --- | --- | --- |
@@ -59,3 +55,8 @@ https://www.hackerrank.com/codefusion-20-7
 | 49 | [AlgoStrike(Senior)](https://www.hackerrank.com/contests/algostrike-junior) | PICT |  |
 | 50 | [PASC-(for beginnners)](https://www.hackerrank.com/contests/pasc-se-cp-round-1) | PICT |  |
 | 51 | [PASC-DP-CONTEST](https://www.hackerrank.com/contests/pasc-dp) | PICT |  |
+| 51 | [Algoholics](https://www.hackerrank.com/contests/algoholic-contest-1/challenges) | -- |  |
+| 51 | [Game Theory LONG](https://www.hackerrank.com/contests/5-days-of-game-theory) | Codeforces |  |
+| 51 | [Codefusion](https://www.hackerrank.com/codefusion-20-7) | Walchand |  |
+| 51 | [Code Anime](https://www.hackerrank.com/code-anime) | -- |  |
+
