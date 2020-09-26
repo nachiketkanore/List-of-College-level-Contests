@@ -1,23 +1,32 @@
 # List-of-College-level-Contests
 Contains list of all inter-college "Competitive Programming" contests for participating/upsolving.
 
-
+PICT contests
 | Index | Contest Name | Prepared by | Comments/ Good problems |
 | --- | --- | --- | --- |
 | 1 | [Educational Long (Beginners)](https://www.hackerrank.com/pasc-educational-cp-round-1) | PICT |  |
 | 2 | [PCS-5](https://www.hackerrank.com/pcs-5) | PICT |  |
 | 3 | [PCS-7](https://www.hackerrank.com/pcs7) | PICT |  |
-| 4 | [Codefusion 20-5](https://www.hackerrank.com/codefusion-20-5) | Walchand |  |
-| 5 | [Coding Club](http://hackerrank.com/all-india-contest-by-coding-club-india) | Coding Club India |  |
-| 6 | [Code-Buzzinga](http://hackerrank.com/codebuzzinga) | PCCOE |  |
 | 7 | [PCS-6](http://hackerrank.com/pcs6) | PICT |  |
 | 8 | [PASC-Coding-Spree](https://www.hackerrank.com/pasc-corona-coding-spree) | PICT |  |
-| 9 | [Wildcard-Vision-20](https://www.hackerrank.com/aewcv2020) | Walchand |  |
-| 10 | [CPP final](https://www.hackerrank.com/thefinalezzz) | VIIT |  |
-| 11 | [Bugoff-C++](https://www.hackerrank.com/bugoff2cpp) | VIIT |  |
 | 12 | [PCS-3](https://www.hackerrank.com/thirdpcscontest) | PICT |  |
-| 13 | [String (Topicwise)](https://www.hackerrank.com/string-long-contest/) | - |  |
-| 14 | [Coding-Club-1](https://www.hackerrank.com/coding-club-all-india-contest) | Coding Club India |  |
+| 40 | [Clash Credenz 2019](https://www.codechef.com/CCWI2019?itm_campaign=contest_listing) | PICT |  |
+| 41 | [Clash Credenz 2018](https://www.codechef.com/CCWC2018?itm_campaign=contest_listing) | PICT |  |
+| 42 | [Clash Credenz 2017](https://www.codechef.com/CLCW2017?itm_campaign=contest_listing) | PICT |  |
+| 43 | [Clash Credenz 2016](https://www.codechef.com/CCWR2016?itm_campaign=contest_listing) | PICT |  |
+| 44 | [Clash Credenz 2015](https://www.codechef.com/CCWC2015?itm_campaign=contest_listing) | PICT |  |
+| 45 | [Clash Credenz 2014](https://www.codechef.com/CLASH14?itm_campaign=contest_listing) | PICT |  |
+| 46 | [Clash Credenz 2013](https://www.codechef.com/CLASH13?itm_campaign=contest_listing) | PICT |  |
+| 47 | [Just Coding 2019](https://www.codechef.com/JCWR2019?itm_campaign=contest_listing) | PICT |  |
+| 48 | [AlgoStrike(Junior)](https://www.hackerrank.com/contests/algostrike-senior) | PICT |  |
+| 49 | [AlgoStrike(Senior)](https://www.hackerrank.com/contests/algostrike-junior) | PICT |  |
+| 50 | [PASC-(for beginnners)](https://www.hackerrank.com/contests/pasc-se-cp-round-1) | PICT |  |
+| 51 | [PASC-DP-CONTEST](https://www.hackerrank.com/contests/pasc-dp) | PICT |  |
+
+
+AIT contests
+| Index | Contest Name | Prepared by | Comments/ Good problems |
+| --- | --- | --- | --- |
 | 15 | [Code-red-s-2020](https://www.hackerrank.com/contests/code-red-s-2020/challenge) | AIT |  |
 | 16 | [Codeft19-codered](https://www.hackerrank.com/codeft19-codered) | AIT |  |
 | 17 | [Crack-mirror](https://www.hackerrank.com/contests/crack-mirror/challenges) | AIT |  |
@@ -43,21 +52,27 @@ Contains list of all inter-college "Competitive Programming" contests for partic
 | 37 | [Ait-crack-1](https://www.hackerrank.com/ait-crack-1) | AIT |  |
 | 38 | [Ait-crack](https://www.hackerrank.com/ait-crack) | AIT |  |
 | 39 | [Codeft19-bugoff](https://www.hackerrank.com/codeft19-bugoff) | AIT |  |
-| 40 | [Clash Credenz 2019](https://www.codechef.com/CCWI2019?itm_campaign=contest_listing) | PICT |  |
-| 41 | [Clash Credenz 2018](https://www.codechef.com/CCWC2018?itm_campaign=contest_listing) | PICT |  |
-| 42 | [Clash Credenz 2017](https://www.codechef.com/CLCW2017?itm_campaign=contest_listing) | PICT |  |
-| 43 | [Clash Credenz 2016](https://www.codechef.com/CCWR2016?itm_campaign=contest_listing) | PICT |  |
-| 44 | [Clash Credenz 2015](https://www.codechef.com/CCWC2015?itm_campaign=contest_listing) | PICT |  |
-| 45 | [Clash Credenz 2014](https://www.codechef.com/CLASH14?itm_campaign=contest_listing) | PICT |  |
-| 46 | [Clash Credenz 2013](https://www.codechef.com/CLASH13?itm_campaign=contest_listing) | PICT |  |
-| 47 | [Just Coding 2019](https://www.codechef.com/JCWR2019?itm_campaign=contest_listing) | PICT |  |
-| 48 | [AlgoStrike(Junior)](https://www.hackerrank.com/contests/algostrike-senior) | PICT |  |
-| 49 | [AlgoStrike(Senior)](https://www.hackerrank.com/contests/algostrike-junior) | PICT |  |
-| 50 | [PASC-(for beginnners)](https://www.hackerrank.com/contests/pasc-se-cp-round-1) | PICT |  |
-| 51 | [PASC-DP-CONTEST](https://www.hackerrank.com/contests/pasc-dp) | PICT |  |
+
+Walchand contests
+| Index | Contest Name | Prepared by | Comments/ Good problems |
+| --- | --- | --- | --- |
+| 4 | [Codefusion 20-5](https://www.hackerrank.com/codefusion-20-5) | Walchand |  |
+| 9 | [Wildcard-Vision-20](https://www.hackerrank.com/aewcv2020) | Walchand |  |
+| 54 | [Codefusion 20-7](https://www.hackerrank.com/codefusion-20-7) | Walchand |  |
+| 55 | [Codefusion 20-9](https://www.codechef.com/CFUS2020) | Walchand |  |
+
+
+Other contests
+| Index | Contest Name | Prepared by | Comments/ Good problems |
+| --- | --- | --- | --- |
+| 5 | [Coding Club](http://hackerrank.com/all-india-contest-by-coding-club-india) | Coding Club India |  |
+| 6 | [Code-Buzzinga](http://hackerrank.com/codebuzzinga) | PCCOE |  |
+| 10 | [CPP final](https://www.hackerrank.com/thefinalezzz) | VIIT |  |
+| 11 | [Bugoff-C++](https://www.hackerrank.com/bugoff2cpp) | VIIT |  |
+| 13 | [String (Topicwise)](https://www.hackerrank.com/string-long-contest/) | - |  |
+| 14 | [Coding-Club-1](https://www.hackerrank.com/coding-club-all-india-contest) | Coding Club India |  |
 | 52 | [Algoholics](https://www.hackerrank.com/contests/algoholic-contest-1/challenges) | -- |  |
 | 53 | [Game Theory LONG](https://www.hackerrank.com/contests/5-days-of-game-theory) | Codeforces |  |
-| 54 | [Codefusion](https://www.hackerrank.com/codefusion-20-7) | Walchand |  |
 | 55 | [Code Anime](https://www.hackerrank.com/code-anime) | -- |  |
 | 56 | [Randomization Algorithms (pw:abcd)](https://vjudge.net/contest/323610) | VJudge |  |
 
