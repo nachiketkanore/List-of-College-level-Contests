@@ -5,11 +5,17 @@ PICT contests
 | Index | Contest Name | Prepared by | Comments/ Good problems |
 | --- | --- | --- | --- |
 | 1 | [Educational Long (Beginners)](https://www.hackerrank.com/pasc-educational-cp-round-1) | PICT |  |
-| 2 | [PCS-5](https://www.hackerrank.com/pcs-5) | PICT |  |
-| 3 | [PCS-7](https://www.hackerrank.com/pcs7) | PICT |  |
-| 7 | [PCS-6](http://hackerrank.com/pcs6) | PICT |  |
-| 8 | [PASC-Coding-Spree](https://www.hackerrank.com/pasc-corona-coding-spree) | PICT |  |
+| 50 | [PASC-(for beginnners)](https://www.hackerrank.com/contests/pasc-se-cp-round-1) | PICT |  |
+| 51 | [PASC-DP-CONTEST](https://www.hackerrank.com/contests/pasc-dp) | PICT |  |
+| 12 | [PCS-1](https://www.hackerrank.com/contests/firstpcscontest/) | PICT |  |
+| 12 | [PCS-2](https://www.hackerrank.com/contests/secondpcscontest) | PICT |  |
 | 12 | [PCS-3](https://www.hackerrank.com/thirdpcscontest) | PICT |  |
+| 12 | [PCS-4](https://www.hackerrank.com/contests/pcs4) | PICT |  |
+| 2 | [PCS-5](https://www.hackerrank.com/pcs-5) | PICT |  |
+| 7 | [PCS-6](http://hackerrank.com/pcs6) | PICT |  |
+| 3 | [PCS-7](https://www.hackerrank.com/pcs7) | PICT |  |
+| 8 | [PASC-Coding-Spree](https://www.hackerrank.com/pasc-corona-coding-spree) | PICT |  |
+| 8 | [PASC-Winter-Coding-Spree](https://www.hackerrank.com/contests/pasc-winter-coding-spree) | PICT |  |
 | 40 | [Clash Credenz 2019](https://www.codechef.com/CCWI2019?itm_campaign=contest_listing) | PICT |  |
 | 41 | [Clash Credenz 2018](https://www.codechef.com/CCWC2018?itm_campaign=contest_listing) | PICT |  |
 | 42 | [Clash Credenz 2017](https://www.codechef.com/CLCW2017?itm_campaign=contest_listing) | PICT |  |
@@ -18,11 +24,19 @@ PICT contests
 | 45 | [Clash Credenz 2014](https://www.codechef.com/CLASH14?itm_campaign=contest_listing) | PICT |  |
 | 46 | [Clash Credenz 2013](https://www.codechef.com/CLASH13?itm_campaign=contest_listing) | PICT |  |
 | 47 | [Just Coding 2019](https://www.codechef.com/JCWR2019?itm_campaign=contest_listing) | PICT |  |
+| 40 | [NCC 2020](https://www.codechef.com/NCC2020) | PICT |  |
+| 40 | [NCC 2019](https://www.codechef.com/NCC2019) | PICT |  |
+| 40 | [NCC 2018](https://www.codechef.com/NCC2018) | PICT |  |
+| 40 | [NCC 2017](https://www.codechef.com/NCC2017) | PICT |  |
+| 40 | [NCC 2016](https://www.codechef.com/NCC2016) | PICT |  |
+| 40 | [NCC 2015](https://www.codechef.com/NCC2015) | PICT |  |
+| 40 | [NCC 2014](https://www.codechef.com/NCC2014) | PICT |  |
+| 40 | [Pradnya 2019](https://www.codechef.com/PWCR2019) | PICT |  |
+| 40 | [Pradnya 2018](https://www.codechef.com/PRWR2018) | PICT |  |
+| 40 | [Pradnya 2017](https://www.codechef.com/PWCE2017) | PICT |  |
+| 40 | [Pradnya 2015](https://www.codechef.com/PRDN2015) | PICT |  |
 | 48 | [AlgoStrike(Junior)](https://www.hackerrank.com/contests/algostrike-senior) | PICT |  |
 | 49 | [AlgoStrike(Senior)](https://www.hackerrank.com/contests/algostrike-junior) | PICT |  |
-| 50 | [PASC-(for beginnners)](https://www.hackerrank.com/contests/pasc-se-cp-round-1) | PICT |  |
-| 51 | [PASC-DP-CONTEST](https://www.hackerrank.com/contests/pasc-dp) | PICT |  |
-
 
 AIT contests
 | Index | Contest Name | Prepared by | Comments/ Good problems |
