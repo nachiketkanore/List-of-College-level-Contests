@@ -37,6 +37,11 @@ PICT contests
 | 40 | [Pradnya 2015](https://www.codechef.com/PRDN2015) | PICT |  |
 | 48 | [AlgoStrike(Junior)](https://www.hackerrank.com/contests/algostrike-senior) | PICT |  |
 | 49 | [AlgoStrike(Senior)](https://www.hackerrank.com/contests/algostrike-junior) | PICT |  |
+| 40 | [Easy contest](https://www.hackerrank.com/contests/testcon-8) | PICT |  |
+| 40 | [Medium contest](https://www.hackerrank.com/contests/pictcontest) | PICT |  |
+| 40 | [Beginners](https://www.hackerrank.com/contests/zeroth-for-you) | PICT |  |
+| 40 | [Segment Tree challenge](https://www.hackerrank.com/contests/segment-tree-challenge) | PICT |  |
+
 
 AIT contests
 | Index | Contest Name | Prepared by | Comments/ Good problems |
