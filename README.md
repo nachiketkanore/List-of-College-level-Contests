@@ -62,7 +62,7 @@ Contains list of all inter-college "Competitive Programming" contests for partic
 | 56 | [Randomization Algorithms (pw:abcd)](https://vjudge.net/contest/323610) | VJudge |  |
 
 
-IIIV contests (credits : )
+IIIV contests (credits : https://github.com/iiitv/cp-contests/blob/master/README.md)
 S. no | Contest | Date | Platform |
 --- | --- | --- | -- |
 1 | [iiitv.init()](https://www.hackerrank.com/iiitv-init) | Sept 9 to Sept 10, 2017 | HackerRank |
