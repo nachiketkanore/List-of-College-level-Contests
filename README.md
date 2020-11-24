@@ -41,6 +41,7 @@ PICT contests
 | 40 | [Medium contest](https://www.hackerrank.com/contests/pictcontest) | PICT |  |
 | 40 | [Beginners](https://www.hackerrank.com/contests/zeroth-for-you) | PICT |  |
 | 40 | [Segment Tree challenge](https://www.hackerrank.com/contests/segment-tree-challenge) | PICT |  |
+| 40 | [DSC PICT AlgoWars1.0](https://www.hackerrank.com/contests/algowars-1-0/challenges) | PICT |  |
 
 
 AIT contests
