@@ -95,6 +95,7 @@ Other contests
 | 53 | [Game Theory LONG](https://www.hackerrank.com/contests/5-days-of-game-theory) | Codeforces |  |
 | 55 | [Code Anime](https://www.hackerrank.com/code-anime) | -- |  |
 | 56 | [Randomization Algorithms (pw:abcd)](https://vjudge.net/contest/323610) | VJudge |  |
+| 56 | [CP contest](https://www.hackerrank.com/contests/cp-recruitment-contest-iiti/challenges) | HackerRank |  |
 
 
 IIIV contests (credits : https://github.com/iiitv/cp-contests/blob/master/README.md)
