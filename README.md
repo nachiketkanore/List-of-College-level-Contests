@@ -42,6 +42,9 @@ PICT contests
 | 40 | [Beginners](https://www.hackerrank.com/contests/zeroth-for-you) | PICT |  |
 | 40 | [Segment Tree challenge](https://www.hackerrank.com/contests/segment-tree-challenge) | PICT |  |
 | 40 | [DSC PICT AlgoWars1.0](https://www.hackerrank.com/contests/algowars-1-0/challenges) | PICT |  |
+| 41 | [CodeSpark 2.0](https://www.codechef.com/SPRK2022) | PICT |  |
+| 42 | [CodeSpark 3.0](https://www.hackerrank.com/codespark-3-0) | PICT |  |
+| 43 | [PASC FE Contest](https://www.hackerrank.com/fe-se-pre-sig-contest) | PICT |  |
 
 
 AIT contests
