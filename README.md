@@ -75,6 +75,10 @@ AIT contests
 | 37 | [Ait-crack-1](https://www.hackerrank.com/ait-crack-1) | AIT |  |
 | 38 | [Ait-crack](https://www.hackerrank.com/ait-crack) | AIT |  |
 | 39 | [Codeft19-bugoff](https://www.hackerrank.com/codeft19-bugoff) | AIT |  |
+| 40 | [Codeft23-bugoff](https://www.hackerrank.com/codeft-bugoff) | AIT |  |
+| 41 | [Codeft23-shortest-code](https://www.hackerrank.com/shortcode-codeft3) | AIT |  |
+| 42 | [Codeft23-retracer](https://www.hackerrank.com/retracer2023) | AIT |  |
+| 43 | [Codeft23-codered](https://www.hackerrank.com/codered-codeft-3-0) | AIT |  |
 
 Walchand contests
 | Index | Contest Name | Prepared by | Comments/ Good problems |
